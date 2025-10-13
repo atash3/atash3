@@ -1,12 +1,12 @@
 ## Hello World! 👋
 
-My name is Aisha Tashpulatova and I am currently a 4th year undergraduate at Indiana University Indianapolis (IUI), majoring in neuroscience with a minor in mathematics. 
+My name is Aisha Tashpulatova, and I’m a senior at Indiana University Indianapolis (IUI) majoring in Neuroscience, with a minor in Mathematics.
 
-For most of my undergraduate career, I have worked in Dr. Christopher Lapish's lab at the Indiana University School of Medicine in constructring a computational neuroscience project. Alongside Dr. William Barnett, this project has grown in its progression through milestone posters which you can view on this page. 
+For most of my undergraduate career, I’ve worked in Dr. Christopher Lapish’s lab at the IU School of Medicine on a computational neuroscience project. In collaboration with Dr. William Barnett, this project has evolved through various stages, including milestone posters and presentations, which are available in the repositories on this GitHub profile.
 
-Recently, I have begun applying for graduate programs to continue my journey in pursuing neuroscience research where I hope to utilize my computational skills and other experimental techniques towards understanding the mechanisms which underlie memory and learning processes. 
+I’m currently applying to graduate programs in neuroscience, where I hope to deepen my understanding of memory and learning mechanisms through a combination of computational modeling and experimental approaches.
 
-## Research
+## Research 
 - Worked in Dr. Christopher Lapish's lab on a computational neuroscience project.
 - Collaborated with Dr. William Barnett to develop and present milestone posters.
 - Gained experience in data analysis, computational modeling, and experimental design.
@@ -17,8 +17,11 @@ Recently, I have begun applying for graduate programs to continue my journey in 
 - Conducting Behavioral Experiments (Delay Discounting)
 - Scientific communication & presentations
 
+## Explore My Work
+You can find more details on my research and other academic projects I have done in the repositories on this GitHub profile.
+
 ## Goals
-Exploring how computational approaches, coupled with other experimental approaches, can uncover the neural mechanisms behind memory and learning to inform on preventative and proactive measures on cognitive health during graduate research. 
+I aim to explore how computational approaches, integrated with other experimental neuroscience techniques, can reveal the neural mechanisms that drive learning and memory. Ultimately, I hope this work can contribute to strategies that support cognitive health across the lifespan.
 
 
 
