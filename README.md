@@ -17,9 +17,6 @@ I’m currently applying to graduate programs in neuroscience, where I hope to d
 - Conducting Behavioral Experiments (Delay Discounting)
 - Scientific communication & presentations
 
-## Explore My Work
-You can find more details on my research and other academic projects I have done in the repositories on this GitHub profile.
-
 ## Goals
 I aim to explore how computational approaches, integrated with other experimental neuroscience techniques, can reveal the neural mechanisms that drive learning and memory. Ultimately, I hope this work can contribute to strategies that support cognitive health across the lifespan.
 
