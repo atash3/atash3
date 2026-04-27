@@ -1,6 +1,6 @@
 ## Hello World! 👋
 
-My name is Aisha Tashpulatova, and I’m a senior at Indiana University Indianapolis (IUI) majoring in Neuroscience, with a minor in Mathematics.
+My name is Aisha Tashpulatova, and I’m a undergraduate senior at Indiana University Indianapolis (IUI) majoring in Neuroscience, with a minor in Mathematics.
 
 For most of my undergraduate career, I’ve worked in Dr. Christopher Lapish’s lab at the IU School of Medicine on a computational neuroscience project. In collaboration with Dr. William Barnett, this project has evolved through various stages, including milestone posters and presentations, which are available in the repositories on this GitHub profile.
 
@@ -10,6 +10,7 @@ I’m currently applying to graduate programs in neuroscience, where I hope to d
 - Worked in Dr. Christopher Lapish's lab on a computational neuroscience project.
 - Collaborated with Dr. William Barnett to develop and present milestone posters.
 - Gained experience in data analysis, computational modeling, and experimental design.
+- Check out the *UROPSummer2025* repository to see the project I presented at the ***Society for Neuroscience (SFN)*** annual conference in 2025!
 
 ## Skills
 - Programming: MATLAB
