@@ -4,9 +4,9 @@ My name is Aisha Tashpulatova, and I’m a undergraduate senior at Indiana Unive
 
 For most of my undergraduate career, I’ve worked in Dr. Christopher Lapish’s lab at the IU School of Medicine on a computational neuroscience project. In collaboration with Dr. William Barnett, this project has evolved through various stages, including milestone posters and presentations, which are available in the repositories on this GitHub profile.
 
-I’m currently applying to graduate programs in neuroscience, where I hope to deepen my understanding of memory and learning mechanisms through a combination of computational modeling and experimental approaches.
+I’m currently at the MRC CBU pursuing an MPhil in Cognitive Neuroscience at the University of Cambridge. 
 
-## Research 
+## Undergraduate Research 
 - Worked in Dr. Christopher Lapish's lab on a computational neuroscience project.
 - Collaborated with Dr. William Barnett to develop and present milestone posters.
 - Gained experience in data analysis, computational modeling, and experimental design.
